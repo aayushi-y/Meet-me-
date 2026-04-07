@@ -1,6 +1,6 @@
 # Meet-me-
 
-# 👋 Hi, I'm Aayushi
+# 👋 Hi, I'm Ayushi
 
 🎯 Aspiring Security Analyst | SC-200 Preparation
 🔐 Focused on Microsoft Sentinel, Threat Detection & AI in Security
@@ -28,4 +28,4 @@
 
 ## 🤝 Connect with me
 
-* LinkedIn (add later)
+* https://www.linkedin.com/in/ayushiyadav94/
